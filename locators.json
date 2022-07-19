@@ -1,0 +1,22 @@
+{
+    "click": {
+        "screenshot": ".images\\click-screenshot.png",
+        "source": "https://www.amazon.com/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "nav-search-submit-button"
+    },
+    "paint": {
+        "confidence": 80.0,
+        "path": ".images\\paint-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "search.amazon": {
+        "screenshot": ".images\\search-amazon-screenshot.png",
+        "source": "https://www.amazon.com/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "twotabsearchtextbox"
+    }
+}
